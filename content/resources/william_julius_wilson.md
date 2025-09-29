@@ -5,6 +5,8 @@ description: 'Example of student work: an essay on William Julius Wilson''s call
 file: /courses/11-020-poverty-public-policy-and-controversy-fall-2003/a0770e9ea5bcb9e4bdfcb175fdb9e66b_william_julius_wilson.pdf
 file_size: 30967
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

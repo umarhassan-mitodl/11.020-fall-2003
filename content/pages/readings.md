@@ -47,7 +47,7 @@ Blank, Rebecca. "Introduction," and "America's Efforts to Provide A Safety Net
 
 Rein, Martin. "Problems in the Definition and Measurement of Poverty." Chapter 2 in *The Concept of Poverty.* Edited by Peter Towsend. London: Heinemann, 1970, pp. 46-63. (18 pp.)
 
-Burtless, Gary, and Sarah Siegel. "Medical Spending, Health Insurance, and Measurement of American Poverty." The Brookings Institution, September 2001, abstract and pp. 1-13. (13 pp.) Entire paper available from Brookings ({{% resource_link "ca87f462-306d-4636-97ae-0b25b942db81" "PDF" %}}).
+Burtless, Gary, and Sarah Siegel. "Medical Spending, Health Insurance, and Measurement of American Poverty." The Brookings Institution, September 2001, abstract and pp. 1-13. (13 pp.) Entire paper available from Brookings ([PDF](https://www.brookings.edu/wp-content/uploads/2016/06/poverty.pdf)).
 
 Ruggles, Patricia. Chapter 2 and "Setting the Poverty Threshold," (chapter 3) in *Drawing the Line*. Washington D.C.: Urban Institute Press, 1990, pp. 33-62. (29 pp.)
 
