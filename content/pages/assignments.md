@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides samples of student work completed by a student
   of the class.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
